@@ -8,7 +8,7 @@
 
 ## Estatísticas do GitHub
 
-<div style="display: inline-block"><br>
+<div style="display: inline-block" align="center"><br>
     <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamilyKathleen&show_icons=true&theme=midnight-purple&border_radius=10">
     <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilyKathleen&layout=donut&theme=midnight-purple&border_radius=10">
 </div>
