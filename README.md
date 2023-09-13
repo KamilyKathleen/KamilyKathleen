@@ -9,7 +9,7 @@
 ## Estatísticas do GitHub
 
 <div style="display: inline-block" align="center"><br>
-    <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamilyKathleen&show_icons=true&theme=midnight-purple&border_radius=10">
+    <!---<img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamilyKathleen&show_icons=true&theme=midnight-purple&border_radius=10">--->
     <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilyKathleen&layout=donut&theme=midnight-purple&border_radius=10">
 </div>
 
@@ -21,6 +21,8 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br>
 
 ## Formação
